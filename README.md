@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PhineasKitunga
-- 👀 I’m a flutter developer with 3 years of experience
+- 👀 I’m a flutter developer
 - 
 - 🌱 I’m currently learning Unreal Engine while working on a endless runner
 - 
